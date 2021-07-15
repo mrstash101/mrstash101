@@ -3,5 +3,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrstash101&count_private=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrstash101&repo=UniTEA)](https://github.com/mrstash101/UniTEA)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrstash101&repo=Veauty)](https://github.com/mrstash101/Veauty)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrstash101&layout=compact&hide=GLSL)](https://github.com/mrstash101)
