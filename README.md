@@ -3,6 +3,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrstash101&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrstash101&layout=compact&hide=GLSL)](https://github.com/mrstash101)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrstash101)](https://github.com/mrstash101/github-readme-stats)
 
